@@ -1,6 +1,5 @@
 #include<stdio.h>
 int main(){
-printf("I love my Country");
-
+printf("I love my Country and College");   
 return 0;
 }
